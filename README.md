@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashleydaffin | Blockchain Enthusiast | Japanophile | Great Books of the Western World Student 
-- 👀 I’m actively seeking job oppurtunies as a Software Developer | Entry level Java
+- 👀 I’m actively seeking job oppurtunies as a Software Developer | Entry level Java | Blockchain Developer
 - 🌱 I’m currently learning to create Smart Contracts with Solidity | build on Java fundamentals
 - 📫 Reach me at ashleyedaffin@gmail.com
 
