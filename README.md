@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ashleydaffin | Blockchain Enthusiast | Japanophile | Great Books of the Western World Student 
-- 👀 I’m actively seeking job oppurtunies as a Software Engineer | Java | Javascript
-- 🌱 I’m a B.S. Computer Science student with an est gradution date of Dec 2021
+- 👋 Hi, I’m @ashleydaffin | Blockchain Enthusiast | Great Books of the Western World Student 
 - 📫 Reach me at ashleyedaffin@gmail.com
  
 <!---
